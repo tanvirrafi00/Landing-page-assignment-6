@@ -19,7 +19,13 @@ body {
   background: var(--base-white, #fff);
 }
 .header {
-  width: 100vh;
+  width:1440px;
+    height:80PX;
+    /* margin-top:18px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 32px;
 }
 .content {
   display: flex;
