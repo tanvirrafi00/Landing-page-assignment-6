@@ -20,13 +20,7 @@ body {
   background: var(--base-white, #fff);
 }
 .header {
-  width:1440px;
-    height:80PX;
-    /* margin-top:18px; */
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 32px;
+  width:100vw;
 }
 .content {
   display: flex;
